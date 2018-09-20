@@ -14,3 +14,4 @@ dependencies:
   - mpl_toolkits
   - random
   - math
+  - jupyter_nbextentions_configurator
