@@ -16,3 +16,4 @@ dependencies:
   - math
   - jupyter_nbextensions_configurator
   - functools
+  - gdal
