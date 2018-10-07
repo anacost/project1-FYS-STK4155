@@ -13,4 +13,5 @@ dependencies:
   - scikit-learn
   - jupyter_nbextensions_configurator
   - gdal
+  - jupyter_contrib_nbextensions
   - markdown
