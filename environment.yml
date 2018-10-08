@@ -8,10 +8,10 @@ dependencies:
   - jupyter_dashboards
   - jupyter_dashboards_bundlers
   - matplotlib
-  - ipywidgets=7
   - numpy
   - scikit-learn
   - jupyter_nbextensions_configurator
   - gdal
   - jupyter_contrib_nbextensions
   - markdown
+  - pandas
